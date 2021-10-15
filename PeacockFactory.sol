@@ -2,7 +2,7 @@ pragma solidity =0.5.16;
 
 /*
  * Peacock Swap
- * App:             https://peacock.financial/app or https://app.peacock.financial
+ * App:             https://peacock.financial/app OR https://app.peacock.financial
  * Medium:          https://medium.com/@peacockofficial  
  * Twitter:         https://twitter.com/peacockbsc
  * Telegram:        https://t.me/joinchat/2_JeHjYlUpoyOGM1
